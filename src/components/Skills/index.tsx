@@ -11,34 +11,20 @@ export const Skills = () => {
       </div>
       <div className="skill-info">
         <div>
-          <Typography className="bottom-line" variant="h5">
-            Technologies
-          </Typography>
-          <CodeIcon
-            className="skill-icon"
-            sx={{ width: "50px", height: "50px" }}
-          />
           <List>
-            <ListItem>JavaScript</ListItem>
-            <ListItem>HTML</ListItem>
-            <ListItem>Css</ListItem>
+            <ListItem>JavaScript (ES6+)</ListItem>
+            <ListItem>HTML5</ListItem>
+            <ListItem>CSS3</ListItem>
             <ListItem>React</ListItem>
             <ListItem>TypeScript</ListItem>
-            <ListItem>Material UI</ListItem>
-          </List>
-        </div>
-        <div>
-          <Typography className="bottom-line" variant="h5">
-            Tools
-          </Typography>
-          <HandymanIcon
-            className="skill-icon"
-            sx={{ width: "50px", height: "50px" }}
-          />
-          <List>
-            <ListItem>GitHub</ListItem>
+            <ListItem>Redux</ListItem>
+            <ListItem>Context API</ListItem>
+            <ListItem>REST APIs</ListItem>
             <ListItem>Git</ListItem>
-            <ListItem>VsCode</ListItem>
+            <ListItem>Tailwind</ListItem>
+            <ListItem>Agile/Scrum</ListItem>
+            <ListItem>Material UI</ListItem>
+            <ListItem>Performance Optimization</ListItem>
           </List>
         </div>
       </div>

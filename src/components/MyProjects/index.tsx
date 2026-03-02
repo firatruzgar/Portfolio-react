@@ -49,31 +49,6 @@ const initialProject: ProjectReact[] = [
     githubUrl: "https://github.com/FiratSomek/spend-money-app",
     img: SpendMoneyAppImg,
   },
-  {
-    name: "Random Person React",
-    url: "https://random-person-card.vercel.app/",
-    githubUrl: "https://github.com/FiratSomek/random-person-card",
-    img: RandomUserImg,
-  },
-
-  {
-    name: "Weather App JavaScript",
-    url: "https://codepen.io/Firatsomek/pen/abQRRpb",
-    githubUrl: "https://github.com/FiratSomek/weatherApp",
-    img: WeatherAppImg,
-  },
-  {
-    name: "Tic Tac Toe React",
-    url: "https://tic-tac-toe-react-psi-blush.vercel.app",
-    githubUrl: "https://github.com/FiratSomek/Tic-tac-toe-react",
-    img: TicTacToeImg,
-  },
-  {
-    name: "Random Quote Machine JavaScript",
-    url: "https://codepen.io/Firatsomek/pen/OJBoYGg",
-    githubUrl: "https://github.com/FiratSomek/RandomQuoteMachine",
-    img: RandomQuoteImg,
-  },
 ];
 
 export const MyProjects = () => {

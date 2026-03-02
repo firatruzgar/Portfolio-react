@@ -11,15 +11,13 @@ export const Introduce = () => {
       <div className="int-info">
         <Typography variant="h4">Hi there, I'm Fırat</Typography>
         <Typography variant="body2">
-          I am a software developer who is passionate about Front-End
-          development. Web technologies, user interface design and modern web
-          trends I am constantly improving my knowledge about it. Also, I am
-          always open to learning and adapting to new technologies.
+          Frontend Developer specializing in React, Next.js, and TypeScript with
+          hands-on production experience in fast-paced startup environments.
+          Contributed to scalable UI architecture, REST API integrations, and
+          reusable component systems at PickYourPour. Focused on performance,
+          clean code, and delivering intuitive user experiences.
         </Typography>
-        <Typography variant="body1">
-          The languages and tools I use are as follows: HTML, CSS, JavaScript,
-          React, Material UI, TypeScript, Git, GitHub
-        </Typography>
+        <br />
       </div>
     </div>
   );

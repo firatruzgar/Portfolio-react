@@ -12,11 +12,11 @@ export const Contact = () => {
   };
 
   const handleLinkedInClick = () => {
-    window.open("https://www.linkedin.com/in/firat-s/");
+    window.open("https://www.linkedin.com/in/firat-r/");
   };
 
   const handleGitHubClick = () => {
-    window.open("https://github.com/FiratSomek?tab=repositories");
+    window.open("https://github.com/firatruzgar?tab=repositories");
   };
 
   return (

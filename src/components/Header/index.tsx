@@ -22,7 +22,7 @@ export const Header = ({
     <div className="header-container">
       <div className="header-title">
         <LaptopIcon className="laptop-icon" />
-        <Typography variant="subtitle2">FIRATWEBDEV</Typography>
+        <Typography variant="subtitle2">FIRATRUZGARDEV</Typography>
       </div>
       <div>
         <nav>

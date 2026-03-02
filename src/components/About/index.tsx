@@ -9,14 +9,19 @@ export const About = () => {
       </div>
       <div className="about-info">
         <Typography variant="body1">
-          My name is Fırat and I am a talented front end developer. Actually ı
-          have been graduated from aviation management department. But ı have
-          always been interest with internet and technology. In my free time, I
-          enjoy listening to music and hiking, that it helps to relax and
-          inspire me in my work. I initially started coding as a hobby, but
-          quickly realized that it was something I was truly passionate about
-          and decided to pursue a career change. I am so excited to will gain
-          new experiences and help others in the process.
+          My journey into software development began after graduating in
+          Aviation Management, where I developed strong analytical thinking,
+          discipline, and adaptability. Although my academic background was
+          different, my long-standing interest in technology led me to
+          transition into frontend development a decision that quickly became a
+          professional commitment rather than a hobby. Today, I build modern web
+          applications using React and Next.js, focusing on scalable
+          architecture, reusable components, and performance optimization. I
+          enjoy solving real-world problems through clean, maintainable code and
+          continuously improving both technically and personally. Outside of
+          development, I value activities like hiking and music, which help me
+          maintain focus, creativity, and balance qualities I also bring into my
+          work.
         </Typography>
       </div>
     </div>
